@@ -1,0 +1,12 @@
+.media a {
+    color: black;
+}
+
+.media h3 {
+    display: inline;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(green 0%, orange 100%);
+}
